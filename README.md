@@ -1,2 +1,2 @@
-# Hell-world
-This world is like hell for those people who are not thankfull.
+# Hello-World
+hey, My name is Mudassir ikram and i am new in wed developmrnt field.
